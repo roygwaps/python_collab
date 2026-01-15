@@ -10,7 +10,7 @@ def main():
     # CONTRIBUTOR 2 (Classmate A)
     # -----------------------------------------
     # TODO: Classmate A, please uncomment the line below and add your function
-    # print("Contributor 2: [Name] says hello!")
+    # print("Contributor 2: [Mike] says hello!")
 
     # -----------------------------------------
     # CONTRIBUTOR 3 (Classmate B)
