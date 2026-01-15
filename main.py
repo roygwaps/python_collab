@@ -16,7 +16,7 @@ def main():
     # CONTRIBUTOR 3 (Classmate B)
     # -----------------------------------------
     # TODO: Classmate B, please uncomment the line below and add your function
-    # print("Contributor 3: [Name] likes Python!")
+    print("Contributor 3: [LM] likes Python!")
 
     # -----------------------------------------
     # CONTRIBUTOR 4 (Classmate C)
