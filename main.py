@@ -22,7 +22,7 @@ def main():
     # CONTRIBUTOR 4 (Classmate C)
     # -----------------------------------------
     # TODO: Classmate C, please uncomment the line below and add your function
-    # print("Contributor 4: [Name] is here!")
+    print("Contributor 4: [Mats] is here!")
 
 if __name__ == "__main__":
     main()
