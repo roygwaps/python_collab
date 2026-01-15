@@ -7,10 +7,10 @@ def main():
     print("Leader: Project initialized by Roy Aninon")
 
     # -----------------------------------------
-    # CONTRIBUTOR 2 (Classmate A)
+     CONTRIBUTOR 2 (Classmate A)
     # -----------------------------------------
-    # TODO: Classmate A, please uncomment the line below and add your function
-    # print("Contributor 2: [Mike] says hello!")
+     TODO: Classmate A, please uncomment the line below and add your function
+     print("Contributor 2: [Mike gwapo] says hello!")
 
     # -----------------------------------------
     # CONTRIBUTOR 3 (Classmate B)
